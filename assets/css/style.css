@@ -87,7 +87,31 @@ section {
   margin: 0;
   color: #4154f1;
   text-transform: uppercase;
+
 }
+
+.section-header h4 {
+color: #28044C;
+font-family: "Bricolage Grotesque", sans-serif !important;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin: 5px;
+}
+
+
+.box {
+  color: #28044C;
+  font-family: "Bricolage Grotesque", sans-serif !important;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin: 5px;
+  }
+
+  
 
 .section-header p {
   margin: 10px 0 0 0;
@@ -95,7 +119,7 @@ section {
   font-size: 38px;
   line-height: 42px;
   font-weight: 700;
-  color: #012970;
+  color: #28044C;
 }
 
 @media (max-width: 768px) {
@@ -667,7 +691,9 @@ section {
 
 .values .box h3 {
   font-size: 24px;
-  color: #012970;
+  color: #F2167D;
+  font-family: "Bricolage Grotesque", sans-serif !important;
+  font-variant: bold;
   font-weight: 700;
   margin-bottom: 18px;
 }
@@ -779,7 +805,7 @@ section {
   text-transform: uppercase;
   font-size: 15px;
   font-weight: 600;
-  color: #012970;
+  color: #F2167D;
   padding: 12px 0;
   margin-right: 25px;
   margin-bottom: -2px;
@@ -795,14 +821,15 @@ section {
   font-size: 18px;
   margin: 0;
   font-weight: 700;
-  color: #012970;
+  color: #28044C;
+  font-family: "Bricolage Grotesque", sans-serif !important;
 }
 
 .features .feture-tabs .tab-content i {
   font-size: 24px;
   line-height: 0;
   margin-right: 8px;
-  color: #4154f1;
+  color: #F2167D;
 }
 
 .features .feature-icons {
@@ -810,7 +837,7 @@ section {
 }
 
 .features .feature-icons h3 {
-  color: #012970;
+  color: #28044C;
   font-weight: 700;
   font-size: 32px;
   margin-bottom: 20px;
