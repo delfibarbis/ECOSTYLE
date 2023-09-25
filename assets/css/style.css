@@ -20,6 +20,17 @@ body {
   
 }
 
+.titulo-hero,
+.segundo {
+color: white !important;
+}
+.segundo {
+  font-family:'Bricolage Grotesque', sans-serif !important;
+  }
+
+.titulo-hero {
+  font-family: "Russo One", sans-serif !important;
+}
 
 a {
   color: #4154f1;
@@ -155,7 +166,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #4154f1;
+  background: #28044C;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -197,7 +208,7 @@ section {
 }
 
 .header.header-scrolled {
-  background: #fff;
+  background: #F2167D;
   padding: 15px 0;
   box-shadow: 0px 2px 20px rgba(1, 41, 112, 0.1);
 }
@@ -251,7 +262,7 @@ section {
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   font-weight: 700;
-  color: #013289;
+  color: #ffffff;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -267,7 +278,7 @@ section {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #4154f1;
+  color: #28044C;
 }
 
 .navbar .getstarted,
@@ -516,8 +527,8 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #4154f1;
-  box-shadow: 0px 5px 30px rgba(65, 84, 241, 0.4);
+  background: #28044C;
+  box-shadow: 0px 5px 30px rgba(65, 83, 241, 0);
 }
 
 .hero .btn-get-started span {
@@ -1688,7 +1699,7 @@ section {
 }
 
 .contact .php-email-form {
-  background: #F1177D;
+  background: #FAFBFF;
   padding: 30px;
   height: 100%;
 }
