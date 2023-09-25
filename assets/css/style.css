@@ -1066,11 +1066,12 @@ margin: 5px;
   margin-bottom: 15px;
 }
 
+
 .pricing .price {
   font-size: 36px;
-  color: #444444;
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  color: #000000;
+  font-weight: 400;
+  font-family: "Russo One", sans-serif;
 }
 
 .pricing .price sup {
