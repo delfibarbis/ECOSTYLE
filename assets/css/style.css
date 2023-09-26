@@ -63,6 +63,9 @@ h6 {
   position: center;
 }
 
+.final {
+  position: right;
+}
 section {
   padding: 60px 0;
   overflow: hidden;
