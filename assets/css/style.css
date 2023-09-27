@@ -313,7 +313,7 @@ margin: 5px;
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Nunito", sans-serif;
+  font-family: "Bricolage Grotesque", sans-serif !important;
   font-size: 16px;
   font-weight: 700;
   color: #ffffff;
@@ -586,7 +586,7 @@ margin: 5px;
 }
 
 .hero .btn-get-started span {
-  font-family: "Nunito", sans-serif;
+  font-family: "Bricolage Grotesque", sans-serif !important;
   font-weight: 600;
   font-size: 16px;
   letter-spacing: 1px;
@@ -1245,7 +1245,7 @@ margin: 5px;
   font-size: 15px;
   font-weight: 600;
   line-height: 1;
-  color: #444444;
+  color: #28044C;
   margin: 0 4px 8px 4px;
   transition: 0.3s;
   border-radius: 50px;
@@ -1273,7 +1273,7 @@ margin: 5px;
 
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(255, 255, 255, 0.75);
+  background: rgba(146, 241, 254, 0.75);
   position: absolute;
   left: 30px;
   right: 30px;
@@ -1354,7 +1354,7 @@ margin: 5px;
 
 .portfolio .portfolio-wrap .portfolio-links a {
   color: #fff;
-  background: #4154f1;
+  background: #28044C;
   margin: 10px 2px;
   width: 36px;
   height: 36px;
@@ -1371,7 +1371,7 @@ margin: 5px;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  background: #5969f3;
+  background: #28044C;
 }
 
 .portfolio .portfolio-wrap:hover img {
@@ -1796,6 +1796,9 @@ color: #28044C;
   background: #FAFBFF;
   padding: 30px;
   height: 100%;
+  font-family: "Bricolage Grotesque", sans-serif !important;
+  color: #28044C;
+
 }
 
 .contact .php-email-form .error-message {
@@ -1866,7 +1869,9 @@ color: #28044C;
   padding: 10px 30px;
   color: #fff;
   transition: 0.4s;
-  border-radius: 4px;
+  
+  font-weight: 600;
+   border-radius: 10px;
 }
 
 .contact .php-email-form button[type=submit]:hover {
