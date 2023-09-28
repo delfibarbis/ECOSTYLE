@@ -705,7 +705,7 @@ margin: 5px;
   font-size: 28px;
   font-weight: 400;
   color: #ffffff;
-  font-family: "Russo One", sans-serif;
+  font-family: "Russo One", sans-serif !important; 
 }
 
 .about p {
