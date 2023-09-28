@@ -156,6 +156,7 @@ margin: 5px;
   padding-bottom: 20px !important;
 }
 
+
 .section-header p {
   margin: 10px 0 0 0;
   padding: 0;
@@ -951,6 +952,12 @@ margin: 5px;
   color: #848484;
 }
 
+.features .otro50  {
+  color: #D3317C;
+  font-family: "Bricolage Grotesque", sans-serif !important; 
+  font-weight: 500;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
@@ -1137,7 +1144,7 @@ margin: 5px;
   font-size: 36px;
   color: #28044C;
   font-weight: 400;
-  font-family: "Russo One", sans-serif;
+  font-family: "Russo One", sans-serif !important;
 }
 
 .pricing .price sup {
